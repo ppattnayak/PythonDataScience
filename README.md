@@ -6,8 +6,7 @@ This repo consists of solution to the homework assignments given in Udemy Course
 ###  Homework 1: LAW OF LARGE NUMBERS
 Q. Write a Python Script to find the number of random numbers that fall between -1 and 1 and compare it with the expected value of 68.2%
 
-Solution:
-#######Random Number Expected Value.ipynb
+#######Solution: Random Number Expected Value.ipynb
 
 
 ### Homework 2: Financial Statement Analysis
@@ -25,5 +24,4 @@ financial metrics:
 - the best month - where the profit after tax was max for the year
 - the worst month - where the profit after tax was min for the year
 
-Solution:
-#######Financial Statement Analysis.ipynb
+#######Solution: Financial Statement Analysis.ipynb
