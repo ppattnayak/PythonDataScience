@@ -25,3 +25,11 @@ financial metrics:
 - the worst month - where the profit after tax was min for the year
 
 #######Solution: Financial Statement Analysis.ipynb
+
+
+### Drawing Insights from NBA Player's info
+Q. Try to find out insights by plotting player's salary, in-game stats and see if you can find any discrepancy or other insight.
+
+#######Solution: Basketball Data Visualization and Quick Insights.ipynb
+
+
