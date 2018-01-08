@@ -59,4 +59,4 @@ Some data has been provided in a CSV file, some in Python lists. The CSV file co
 All data manipulations have to be performed in Python (not in Excel) because this project can be audited at the later stage.
 You also have been requested to provide insights into how the two periods compare. 
 
-
+#######Solution: World Life Expectancy and Fertility.ipynb
