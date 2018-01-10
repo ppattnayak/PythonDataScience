@@ -65,3 +65,4 @@ You also have been requested to provide insights into how the two periods compar
 ### Drawing Insights from Movie Ratings using a Dashboard(pyplot and seaborn packages)
 Q. Try to find out how critics rating and audience rating compare and standup wrt year and genre by creating a visually appealing dashboard of critics.
 
+#######Solution: Movie Rating Dashboard.ipynb
