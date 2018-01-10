@@ -77,3 +77,4 @@ However the Python code used to create the diagram has since been lost and canno
 Your task is to come up with the code that will re-create the same chart making it look as close as possible to the original.
 A new dataset has been supplied. 
 
+#######Solution: Chart Replication for Movie Company.ipynb
