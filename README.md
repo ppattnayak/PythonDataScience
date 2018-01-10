@@ -60,3 +60,8 @@ All data manipulations have to be performed in Python (not in Excel) because thi
 You also have been requested to provide insights into how the two periods compare. 
 
 #######Solution: World Life Expectancy and Fertility.ipynb
+
+
+### Drawing Insights from Movie Ratings using a Dashboard(pyplot and seaborn packages)
+Q. Try to find out how critics rating and audience rating compare and standup wrt year and genre by creating a visually appealing dashboard of critics.
+
